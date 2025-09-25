@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image: psychiana046
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -17,6 +17,17 @@ padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+# Test Heading
+
+This is just a test heading for SI 676.
+
+***This sentence looks important!***
+
+### Hello
+_And this one is italicized._
+
+<sup>This text is superscript.</sup>
 
 ## About CollectionBuilder CSV
 
